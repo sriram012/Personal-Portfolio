@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend of my personal portofolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriram012/Personal-Portfolio.git"
+  },
+  "author": "sriram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriram012/Personal-Portfolio/issues"
+  },
+  "homepage": "https://github.com/sriram012/Personal-Portfolio#readme"
+}
